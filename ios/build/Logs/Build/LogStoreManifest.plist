@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5272DB87-723E-48DB-A54C-33DFC293372E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5272DB87-723E-48DB-A54C-33DFC293372E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Wobot project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Wobot</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603089413.72542202</real>
+			<key>timeStoppedRecording</key>
+			<real>603089440.41852903</real>
+			<key>title</key>
+			<string>Building project Wobot with scheme Wobot and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5272DB87-723E-48DB-A54C-33DFC293372E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

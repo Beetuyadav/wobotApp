@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/harshvirsingh/Desktop/apprevamp/Woot-Tickiting/node_modules/react-native/Libraries/Text/RCTTextTransform.h

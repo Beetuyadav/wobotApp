@@ -1,0 +1,1 @@
+export const SERVER_URL = 'https://app.wobot.in/vendor/MobileEndPoint.php';
