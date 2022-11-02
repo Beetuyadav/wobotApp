@@ -10,7 +10,7 @@
     "axios": "^0.18.0",
     "moment": "^2.22.2",
     "react": "16.6.1",
-    "react-native": "0.57.7",
+    "react-native": "0.70.4",
     "react-native-aws3": "0.0.8",
     "react-native-calendar-picker": "^5.22.0",
     "react-native-complete-flatlist": "^1.1.30",
